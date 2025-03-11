@@ -59,6 +59,6 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 
 ---
 **🔗 Connect & Follow:**
-For further discussions or collaborations, connect with me on **[LinkedIn](https://www.linkedin.com/in/shabareesh1383/)**.
+For further discussions or collaborations, connect with me on **[LinkedIn](https://www.linkedin.com/in/shabareesh-pemmaraju-349434230/)**.
 
 Happy Analyzing! 🚀
